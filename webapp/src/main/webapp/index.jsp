@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Registration for AWS Cloud DevOps Learning</h1>
+    <h1>Registration for AWS Cloud Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Enter Email Address</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
