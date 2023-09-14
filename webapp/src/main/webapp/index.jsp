@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Registration for Jenkins DOCKER AWS Ansible Playbook</h1>
+    <h1>Registration for Jenkins DOCKER AWS Ansible Playbook Class</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
