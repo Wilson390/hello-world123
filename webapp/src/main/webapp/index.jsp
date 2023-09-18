@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Registration for Jenkins Docker AWS Ansible Playbook Keykloak</h1>
+    <h1>CI Job for Jenkins Docker AWS Ansible Playbook Keykloak</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
